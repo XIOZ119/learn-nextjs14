@@ -4,12 +4,19 @@
     gap: 50px;
     width: 80%;
     margin: 0 auto;
+    padding-bottom: 30px;
   }
   
   .poster {
     border-radius: 20px;
     max-width: 70%;
     place-self: center;
+  }
+
+  .topTitle {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 80px;
   }
   
   .title {
