@@ -14,3 +14,8 @@
 ![Home _ Next Movies 외 페이지 1개 - 홍시은 - Microsoft​ Edge 2024-07-06 오후 7_50_15](https://github.com/XIOZ119/learn-nextjs14/assets/63907578/b2e4dcaa-1b7d-46b3-8502-b567e2bc1fd7)
 
 ### 3. providers page 추가 구현
+
+
+### 회고 
+ - Javascript 부분이 많이 부족한 것 같아, 공부하고 수정할 예정
+ - 강의의 CSS 그대로 들고 왔으나, 다음 강의부터는 알아서 짜봐야겠다 
